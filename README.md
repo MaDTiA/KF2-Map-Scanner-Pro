@@ -23,7 +23,7 @@ Python 3.6 or higher. Uses only standard libraries (tkinter, os, threading).
 
 Clone or download this repository:
 
-    git clone https://github.com/MaDTiA/KF2-Map-Scanner-Pro/KF2-Map-Scanner-Pro.git
+    git clone https://github.com/MaDTiA/KF2-Map-Scanner-Pro.git
     cd KF2-Map-Scanner-Pro
 
 Run the script:
