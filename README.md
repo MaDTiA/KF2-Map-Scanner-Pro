@@ -6,7 +6,7 @@ Features three switchable UI themes: Windows Native, Dark Professional, and Mini
 
 ## Screenshots
 
-[![Theme Description](https://i.postimg.cc/dkPKGQgW/b.png)](https://postimg.cc/dkPKGQgW](https://i.postimg.cc/dkPKGQgW/b.png)
+![Dark Professional Theme](https://i.postimg.cc/dkPKGQgW/b.png)
 
 **Theme A - Windows Native**
 [Windows Native Theme](https://i.postimg.cc/Q9GrcNvY/a.png)
