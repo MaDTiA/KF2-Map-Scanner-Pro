@@ -6,6 +6,8 @@ Features three switchable UI themes: Windows Native, Dark Professional, and Mini
 
 ## Screenshots
 
+https://i.postimg.cc/dkPKGQgW/b.png
+
 **Theme A - Windows Native**
 [Windows Native Theme](https://i.postimg.cc/Q9GrcNvY/a.png)
 
@@ -67,10 +69,6 @@ Generated entries follow this structure:
 ## Contributing
 
 Pull requests are welcome. For major changes, open an issue first to discuss proposed changes.
-
-## License
-
-MIT License - see LICENSE file for details.
 
 ## Credits
 
