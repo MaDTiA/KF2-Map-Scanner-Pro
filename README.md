@@ -4,6 +4,17 @@ A multi-threaded GUI application for Killing Floor 2 server administrators. Auto
 
 Features three switchable UI themes: Windows Native, Dark Professional, and Minimal Clean.
 
+## Screenshots
+
+**Theme A - Windows Native**
+![Windows Native Theme](https://i.postimg.cc/3RWJ5d1h/a.png)
+
+**Theme B - Dark Professional**
+![Dark Professional Theme](https://i.postimg.cc/ZR0KtCHh/b.png)
+
+**Theme C - Minimal Clean**
+![Minimal Clean Theme](https://i.postimg.cc/Kz4vSRfh/c.png)
+
 ## Features
 
 - Automated scanning: Recursively scans folders for .kfm map files
