@@ -7,13 +7,16 @@ Features three switchable UI themes: Windows Native, Dark Professional, and Mini
 ## Screenshots
 
 **Theme A - Windows Native**
-![Windows Native Theme](https://i.postimg.cc/3RWJ5d1h/a.png)
+![Windows Native Theme]
+(https://i.postimg.cc/Q9GrcNvY/a.png)
 
 **Theme B - Dark Professional**
-![Dark Professional Theme](https://i.postimg.cc/ZR0KtCHh/b.png)
+![Dark Professional Theme]
+(https://i.postimg.cc/dkPKGQgW/b.png)
 
 **Theme C - Minimal Clean**
-![Minimal Clean Theme](https://i.postimg.cc/Kz4vSRfh/c.png)
+![Minimal Clean Theme]
+(https://i.postimg.cc/Fd5Q0FwT/c.png)
 
 ## Features
 
